@@ -12,7 +12,7 @@ I am a software developer who thrives on challenges that encourage me to apply a
 
 
 ## 📚 Education
-- **Informatics Engineering**, Universidade Aberta, 2021-2024
+- **Informatics Engineering**, [Universidade Aberta]([https://linkedin.com/in/jjginga](https://guiadoscursos.uab.pt/cursos/licenciatura-em-engenharia-informatica/?lang=en), 2021-2024
 - **Programming Bootcamp**, <Academia de Código_>, 2020
 
 ## 📫 How to reach me
