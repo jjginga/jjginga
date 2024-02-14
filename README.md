@@ -23,7 +23,7 @@ I am a software developer who thrives on challenges that encourage me to apply a
 - [![CV](https://img.shields.io/static/v1?label=CV&message=View%20My%20CV&color=blue)](https://praticamentequenianos.com/cv/cv_JJGinga_en.pdf)
 
 
-##⚡Fun fact 
+## ⚡Fun Fact
 - Twice i finished last in a race**
 
 ## 📈 Stats
