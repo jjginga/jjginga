@@ -19,12 +19,15 @@
 
 - ⚡ Fun fact **Twice i finished last in a race**
 
+![Codewars](https://github.r2v.ch/codewars?user=jjginga&stroke=COLOR)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div style="display: flex; align-items: center;">
     <a href="https://linkedin.com/in/jjginga" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjginga" height="30" width="40" /></a>    
     <a href="https://www.codewars.com/users/jjginga" target="blank"><img src="https://www.codewars.com/packs/assets/logo-square-red-big-dark-text.2e091298.png" alt="jjginga"  width="40" /></a>    
-    <a href="https://app.codesignal.com/profile/jjginga" target="blank"><img src="https://logowik.com/content/uploads/images/codesignal7831.jpg" alt="jjginga" width="100" /></a>
+    <a href="https://app.codesignal.com/profile/jjginga" target="blank"><img src="https://img.shields.io/badge/CodeSignal-1062FB.svg?style=for-the-badge&logo=CodeSignal&logoColor=white" alt="jjginga" width="100" /></a>
 </div></p>
 
 <h3 align="left">Languages and Tools:</h3>
