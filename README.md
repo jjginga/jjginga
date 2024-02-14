@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working **on enhancing and application on the banking sector, focusing on software development and configuration managemente to improve system functionality and user experience.**
 
-- 🌱 I’m currently learning **dvanced software engineering principles and practices as part of my university studies. This includes diving deep into algorithms, data structures, system design, and exploring emerging technologies in the field of software development. My academic journey is enriching my understanding of both theoretical and practical aspects of technology, preparing me for the challenges of modern software projects.**
+- 🌱 I’m currently learning **advanced software engineering principles and practices as part of my university studies. This includes diving deep into algorithms, data structures, system design, and exploring emerging technologies in the field of software development. My academic journey is enriching my understanding of both theoretical and practical aspects of technology, preparing me for the challenges of modern software projects.**
 
 - 👯 I’m looking to collaborate **on educational or open-source Java projects or innovative backend solutions**
 
