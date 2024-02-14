@@ -24,7 +24,7 @@
 <div style="display: flex; align-items: center;">
     <a href="https://linkedin.com/in/jjginga" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjginga" height="30" width="40" /></a>
     <a href="https://www.codewars.com/users/jjginga" target="blank"><img src="https://github.com/codewars/branding/blob/main/logo/codewars-logo-white-red.svg" alt="jjginga" height="30" width="40" /></a>
-    <a href="https://app.codesignal.com/profile/jjginga" target="blank"><img src="https://logowik.com/content/uploads/images/codesignal7831.jpg" alt="jjginga" height="30" width="40" /></a>
+    <a href="https://app.codesignal.com/profile/jjginga" target="blank"><img src="https://logowik.com/content/uploads/images/codesignal7831.jpg" alt="jjginga" width="100" /></a>
 </div></p>
 
 <h3 align="left">Languages and Tools:</h3>
