@@ -14,6 +14,7 @@ I am a software developer who thrives on challenges that encourage me to apply a
 ## 📚 Education
 - **Informatics Engineering**, [Universidade Aberta](https://guiadoscursos.uab.pt/cursos/licenciatura-em-engenharia-informatica/?lang=en), 2021-2024
 - **Programming Bootcamp**, <Academia de Código_>, 2020
+- **Chemical Engineering**, [Universidade de Aveiro](https://www.ua.pt/en/), 1999-2007
 
 ## 📫 How to reach me
 - Email: **jjginga@gmail.com**
