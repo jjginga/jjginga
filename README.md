@@ -17,8 +17,8 @@ I am a software developer who thrives on challenges that encourage me to apply a
 - **Chemical Engineering**, [Universidade de Aveiro](https://www.ua.pt/en/), 1999-2007
 
 ## 📫 How to reach me
-- Email: **jjginga@gmail.com**
-- Site: <a href="https://jjginga.com target="blank">**jjginga.com**</a>
+- Email: **joel@jjginga.com**
+- Site: <a href="https://jjginga.com" target="blank">**jjginga.com**</a>
 - LinkedIn: <a href="https://linkedin.com/in/jjginga" target="blank">**Linkedin**</a>
 
 ## 📄 Know about my experiences
