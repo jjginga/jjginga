@@ -18,10 +18,11 @@ I am a software developer who thrives on challenges that encourage me to apply a
 
 ## 📫 How to reach me
 - Email: **jjginga@gmail.com**
+- Site: <a href="https://jjginga.com target="blank">**jjginga.com**</a>
 - LinkedIn: <a href="https://linkedin.com/in/jjginga" target="blank">**Linkedin**</a>
 
 ## 📄 Know about my experiences
-- [![CV](https://img.shields.io/static/v1?label=CV&message=View%20My%20CV&color=blue)](https://praticamentequenianos.com/cv/cv_JJGinga_en.pdf)
+- [![CV](https://img.shields.io/static/v1?label=CV&message=View%20My%20CV&color=blue)](https://jjginga.com/assets/pdf/cv_JJGinga_en.pdf)
 
 
 ## ⚡Fun Fact
