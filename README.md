@@ -26,9 +26,14 @@ I am a software developer who thrives on challenges that encourage me to apply a
 
 
 ## ⚡Fun Fact
-- Twice i finished last in a race**
+- Twice i finished last in a race
+
+## Language Proeficiency
+- Portuguese - Native
+- English - Fluent
+- Spanish - B2
+- German - A2
 
 ## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjginga&show_icons=true&theme=radical)
-![Codewars](https://github.r2v.ch/codewars?user=jjginga&stroke=COLOR)
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id=383348141)
+[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjginga&theme=radical)](https://github.com/jjginga)
+
